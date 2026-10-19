@@ -1,0 +1,8 @@
+Algebra 5,0
+Algebra BE
+Digitaltechnik 1,3
+Digitaltechnik BE
+Programmiertechnik 1 2,7
+Programmiertechnik 1 BE
+Softwaremodellierung 2,0
+Softwaremodellierung NB

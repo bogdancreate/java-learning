@@ -22,3 +22,19 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+
+# Semester 1 - generated documentation
+/semester-1/doc/
+
+# Semester 1 - generated JAR files
+/semester-1/*.jar
+
+# Semester 1 - personal and generated reports
+/semester-1/*.html
+/semester-1/Teilnahmeprotokoll.pdf
+
+# Java compiled files
+*.class
+
+# IntelliJ IDEA build output
+out/
