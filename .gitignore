@@ -38,3 +38,13 @@ replay_pid*
 
 # IntelliJ IDEA build output
 out/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Java build output
+out/
+
+# Large text file - not needed for source archive
+/semester-2/Kafka_Der_Prozess.txt
